@@ -1,0 +1,26 @@
+{
+  "name": "weapp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subeauty/weapp-demo.git"
+  },
+  "author": "su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subeauty/weapp-demo/issues"
+  },
+  "homepage": "https://github.com/subeauty/weapp-demo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-miniprogram-adapter": "^0.3.0"
+  }
+}
